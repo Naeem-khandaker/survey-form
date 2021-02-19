@@ -7,7 +7,7 @@ font-family: 'Reggae One', cursive;
 
 */
 body{
-    overflow: hidden;
+    overflow-x: hidden;
 }
 :root{
     --fontall: 'Reggae One', cursive;
@@ -26,6 +26,7 @@ body{
     background: url(./img/1UTJt2.jpg);
     background-position: center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
     background-color: rgba(36, 102, 246, 0.87);
     display: flex;

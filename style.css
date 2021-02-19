@@ -6,7 +6,9 @@ font-family: 'Orbitron', sans-serif;
 font-family: 'Reggae One', cursive;
 
 */
-
+body{
+    overflow: hidden;
+}
 :root{
     --fontall: 'Reggae One', cursive;
     --font:'Orbitron', sans-serif;
